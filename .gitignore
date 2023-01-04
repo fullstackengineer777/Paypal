@@ -1,0 +1,5 @@
+# ignore node modules
+LaraPaypal/node_modules
+ReactPaypal/node_modules
+# ignore vendor
+LaraPaypal/vendor
